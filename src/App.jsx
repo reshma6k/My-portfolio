@@ -22,7 +22,7 @@ function App() {
 
           <Col md={4} >
               <img 
-                src="./public/profile.jpg"
+                src="/profile.jpg"
                 alt="Profile"
                 className="img-fluid rounded-circle "
               />
@@ -80,7 +80,7 @@ function App() {
           <Row>
             <Col md={4}>
               <Card>
-                <Card.Img variant="top" src="./public/trvl.jpg" />
+                <Card.Img variant="top" src="/trvl.jpg" />
                 <Card.Body>
                   <Card.Title>Project 1</Card.Title>
                   <Card.Text>
@@ -92,7 +92,7 @@ function App() {
             </Col>
             <Col md={4}>
               <Card>
-                <Card.Img variant="top" src="./public/budget.jpg" />
+                <Card.Img variant="top" src="/budget.jpg" />
                 <Card.Body>
                   <Card.Title>Project 2</Card.Title>
                   <Card.Text>
@@ -104,7 +104,7 @@ function App() {
             </Col>
             <Col md={4}>
               <Card>
-                <Card.Img variant="top" src="./public/weather.jpg" />
+                <Card.Img variant="top" src="/weather.jpg" />
                 <Card.Body>
                   <Card.Title>Project 3</Card.Title>
                   <Card.Text>
