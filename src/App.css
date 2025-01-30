@@ -1,0 +1,14 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+section {
+  padding: 60px 0;
+}
+
+footer {
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+}
